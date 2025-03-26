@@ -30,21 +30,11 @@ At Hexagone, we offer a wide range of services to turn your vision into reality:
 - **Custom models:** Tailored solutions for business-specific problems.
 - **Integrations:** AI-powered analytics in mobile and web platforms.
 
-### **4. Blockchain and Smart Contracts**
-- **Decentralized applications (DApps):** Built on Ethereum, Binance Smart Chain, and Polygon.
-- **Smart contract development:** Using Solidity, Truffle, and Ganache.
-- **Secure platforms:** End-to-end blockchain solutions.
-
-### **5. Internet of Things (IoT) Development**
+### **4. Internet of Things (IoT) Development**
 - **Smart systems:** Water level monitoring, home automation, and industrial IoT.
 - **Seamless integration:** Real-time monitoring with mobile and web apps.
 
-### **6. DevOps and Cloud Solutions**
-- **CI/CD pipelines:** Streamlined deployment processes for rapid delivery.
-- **Cloud deployment:** AWS, Google Cloud, Azure.
-- **Kubernetes and Docker:** For scalable containerized applications.
-
-### **7. 3D Development (Blender)**
+### **5. 3D Development (Blender)**
 - **3D Modeling:** High-quality 3D models for applications, presentations, and branding.
 - **Animations:** Creating smooth, realistic animations for products and virtual environments.
 - **Visualizations:** Architectural walkthroughs, product visualizations, and 3D prototypes.
