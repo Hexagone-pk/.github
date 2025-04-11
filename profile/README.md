@@ -65,7 +65,7 @@ At Hexagone, we offer a wide range of services to turn your vision into reality:
 
 Let’s redefine success together! Reach out to us for a consultation or to learn more about how we can help bring your ideas to life.
 
-- **Email:** [contact.theHexagone@gmail.com](mailto:contact.theHexagone@gmail.com)
+- **Email:** [contact@theHexagone.com](mailto:contact@theHexagone.com)
 - **LinkedIn:** [Hexagone LinkedIn](https://linkedin.com/company/the-hexagone)
 - **GitHub:** [Hexagone GitHub](https://github.com/the-hexagone)
 
